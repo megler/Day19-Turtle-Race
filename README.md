@@ -8,7 +8,7 @@ You will be prompted to choose a color (red, orange, yellow, green, blue or purp
 race to the finish. See if your turtle wins!
 
 You can run a version of the program on repl.it:
-[https://replit.com/@megler/Day-19-Turtle-Race](Turtle Race)
+[Turtle Race](https://replit.com/@megler/Day-19-Turtle-Race)
 
 
 
