@@ -7,6 +7,9 @@ Bet on which turtle will win a race using the Turtle module. Day 19 Python Bootc
 You will be prompted to choose a color (red, orange, yellow, green, blue or purple). Turtles will
 race to the finish. See if your turtle wins!
 
+You can run a version of the program on repl.it:
+[https://replit.com/@megler/Day-19-Turtle-Race](Turtle Race)
+
 
 
 ## License
